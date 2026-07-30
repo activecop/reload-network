@@ -50,6 +50,18 @@ Ideal para:
 
 ---
 
+## 📸 Screenshots
+
+### Menu Principal
+
+![Menu Principal](screenshots/Captura de ecrã de 2026-07-30 20-20-40.png)
+
+### Exemplo de Configuração
+
+![Configuração DNS](screenshots/Captura de ecrã de 2026-07-30 20-21-16.png)
+
+
+
 ## 🔧 Instalação Rápida
 
 ### bash
