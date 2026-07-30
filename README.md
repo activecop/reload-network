@@ -1,4 +1,3 @@
-cat > README.md << 'EOF'
 # 🔄 reload-network
 
 **Script Bash para reiniciar definições de rede com menu interativo para escolher provedores DNS**
