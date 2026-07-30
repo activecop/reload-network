@@ -54,11 +54,11 @@ Ideal para:
 
 ### Menu Principal
 
-![Menu Principal](screenshots/Captura de ecrã de 2026-07-30 20-20-40.png)
+![Menu Principal](screenshots/menu-principal.png)
 
 ### Exemplo de Configuração
 
-![Configuração DNS](screenshots/Captura de ecrã de 2026-07-30 20-21-16.png)
+![Configuração DNS](screenshots/configuracao-dns.png)
 
 
 
